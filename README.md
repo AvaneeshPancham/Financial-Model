@@ -12,7 +12,9 @@ Supporting Schedules – Fixed assets, financial liabilities, and equity schedul
 Checks & Balances – Internal validation to ensure the Balance Sheet balances across forecast periods
 
 # How to Use the Model
-1. Download the Excel file from this repository.
-2. Update assumptions in the Assumptions sheet.
-3. Review projected financial statements and cash flows.
-4. Check balance validations in the control section.
+1. Click on Financial Model repo.
+2. Click on View Raw.
+3. Download the Excel file from this repository.
+4. Update assumptions in the Assumptions sheet.
+5. Review projected financial statements and cash flows.
+6. Check balance validations in the control section.
